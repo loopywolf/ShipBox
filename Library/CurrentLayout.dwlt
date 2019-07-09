@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 46
+  controlID: 75
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -298,7 +298,7 @@ MonoBehaviour:
     x: 230
     y: 72
     width: 1369
-    height: 520
+    height: 654
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &13
 MonoBehaviour:
@@ -578,9 +578,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 20.558601, y: 3.7763014, z: -0.3704348}
+    m_Target: {x: 19.525341, y: 2.223602, z: -0.65625}
     speed: 2
-    m_Value: {x: 20.558601, y: 3.7763014, z: -0.3704348}
+    m_Value: {x: 19.525341, y: 2.223602, z: -0.65625}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,9 +612,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 40.576797
+    m_Target: 68.81343
     speed: 2
-    m_Value: 40.576797
+    m_Value: 68.81343
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -664,20 +664,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Packages/com.unity.analytics
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Packages/com.unity.analytics
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\unity\shipbox\ShipBox
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 520a0000
-    m_LastClickedID: 2642
-    m_ExpandedIDs: 0000000068090000a80900004a0c0000300f000000ca9a3b
+    scrollPos: {x: 0, y: 119}
+    m_SelectedIDs: 980b0000
+    m_LastClickedID: 2968
+    m_ExpandedIDs: 000000006a090000ac090000500c0000360f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -705,7 +705,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000068090000a8090000920a00004a0c0000300f0000
+    m_ExpandedIDs: 000000006a090000ac090000500c0000360f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 90250000b42500004c250000563000008226000054300000803000007831000000000000d4090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
